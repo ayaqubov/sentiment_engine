@@ -1,0 +1,63 @@
+textsentence_id,text_id,sentence_id,word_count,sentiment,sentence,language,word,translated_word,freq
+UgyBy0iubNWaGLEsiFt4AaABAg_0,UgyBy0iubNWaGLEsiFt4AaABAg,0,5,0.2,Thanks for the review.,English,thanks,thanks,1.0
+UgyBy0iubNWaGLEsiFt4AaABAg_0,UgyBy0iubNWaGLEsiFt4AaABAg,0,5,0.2,Thanks for the review.,English,review,review,1.0
+UgyBy0iubNWaGLEsiFt4AaABAg_1,UgyBy0iubNWaGLEsiFt4AaABAg,1,33,-0.25,"Was quite interested in this, but the monthly payment and having to rely on their online service for it to be of any use is completely horrible and a total dealbreaker.",English,payment,payment,1.0
+UgyBy0iubNWaGLEsiFt4AaABAg_1,UgyBy0iubNWaGLEsiFt4AaABAg,1,33,-0.25,"Was quite interested in this, but the monthly payment and having to rely on their online service for it to be of any use is completely horrible and a total dealbreaker.",English,service,service,1.0
+UgyBy0iubNWaGLEsiFt4AaABAg_1,UgyBy0iubNWaGLEsiFt4AaABAg,1,33,-0.25,"Was quite interested in this, but the monthly payment and having to rely on their online service for it to be of any use is completely horrible and a total dealbreaker.",English,use,use,1.0
+UgyBy0iubNWaGLEsiFt4AaABAg_1,UgyBy0iubNWaGLEsiFt4AaABAg,1,33,-0.25,"Was quite interested in this, but the monthly payment and having to rely on their online service for it to be of any use is completely horrible and a total dealbreaker.",English,dealbreaker,dealbreaker,1.0
+UgyBy0iubNWaGLEsiFt4AaABAg_2,UgyBy0iubNWaGLEsiFt4AaABAg,2,13,0.0,Would never consider it now that I know that's the case.,English,case,case,1.0
+UgyBy0iubNWaGLEsiFt4AaABAg_3,UgyBy0iubNWaGLEsiFt4AaABAg,3,40,-0.028,"While it might work well in short-term, I'm not happy to pay for such a high price for something that's future is completely uncertain and relying on their online service - aswell as my online functionality.",English,term,term,1.0
+UgyBy0iubNWaGLEsiFt4AaABAg_3,UgyBy0iubNWaGLEsiFt4AaABAg,3,40,-0.028,"While it might work well in short-term, I'm not happy to pay for such a high price for something that's future is completely uncertain and relying on their online service - aswell as my online functionality.",English,price,price,1.0
+UgyBy0iubNWaGLEsiFt4AaABAg_3,UgyBy0iubNWaGLEsiFt4AaABAg,3,40,-0.028,"While it might work well in short-term, I'm not happy to pay for such a high price for something that's future is completely uncertain and relying on their online service - aswell as my online functionality.",English,something,something,1.0
+UgyBy0iubNWaGLEsiFt4AaABAg_3,UgyBy0iubNWaGLEsiFt4AaABAg,3,40,-0.028,"While it might work well in short-term, I'm not happy to pay for such a high price for something that's future is completely uncertain and relying on their online service - aswell as my online functionality.",English,future,future,1.0
+UgyBy0iubNWaGLEsiFt4AaABAg_3,UgyBy0iubNWaGLEsiFt4AaABAg,3,40,-0.028,"While it might work well in short-term, I'm not happy to pay for such a high price for something that's future is completely uncertain and relying on their online service - aswell as my online functionality.",English,service,service,1.0
+UgyBy0iubNWaGLEsiFt4AaABAg_3,UgyBy0iubNWaGLEsiFt4AaABAg,3,40,-0.028,"While it might work well in short-term, I'm not happy to pay for such a high price for something that's future is completely uncertain and relying on their online service - aswell as my online functionality.",English,online,online,1.0
+UgyBy0iubNWaGLEsiFt4AaABAg_3,UgyBy0iubNWaGLEsiFt4AaABAg,3,40,-0.028,"While it might work well in short-term, I'm not happy to pay for such a high price for something that's future is completely uncertain and relying on their online service - aswell as my online functionality.",English,functionality,functionality,1.0
+UgyydhSE6g01pxzkS5h4AaABAg_0,UgyydhSE6g01pxzkS5h4AaABAg,0,3,-0.5,Bitch is failed,English,bitch,bitch,1.0
+Ugw-lNQqJgqrx9V-TA94AaABAg_0,Ugw-lNQqJgqrx9V-TA94AaABAg,0,2,0.0,Fuck logitech,German,fuck,fuck,1.0
+Ugw-lNQqJgqrx9V-TA94AaABAg_0,Ugw-lNQqJgqrx9V-TA94AaABAg,0,2,0.0,Fuck logitech,German,logitech,logitech,1.0
+UgwO3wabL2JLKlaAhBN4AaABAg_0,UgwO3wabL2JLKlaAhBN4AaABAg,0,11,0.0,"Needs opinions; this, or the arlo pro??",English,needs,needs,1.0
+UgwO3wabL2JLKlaAhBN4AaABAg_0,UgwO3wabL2JLKlaAhBN4AaABAg,0,11,0.0,"Needs opinions; this, or the arlo pro??",English,opinions,opinions,1.0
+UgwO3wabL2JLKlaAhBN4AaABAg_0,UgwO3wabL2JLKlaAhBN4AaABAg,0,11,0.0,"Needs opinions; this, or the arlo pro??",English,pro,pro,1.0
+Ugz4Bj2qRVR3KsNyUX14AaABAg_0,Ugz4Bj2qRVR3KsNyUX14AaABAg,0,32,0.0,"Hey if you plug the wireless version of the camera into a solar powered power bank, would that allow it to work without having to bring it in for charging?",English,hey,hey,1.0
+Ugz4Bj2qRVR3KsNyUX14AaABAg_0,Ugz4Bj2qRVR3KsNyUX14AaABAg,0,32,0.0,"Hey if you plug the wireless version of the camera into a solar powered power bank, would that allow it to work without having to bring it in for charging?",English,version,version,1.0
+Ugz4Bj2qRVR3KsNyUX14AaABAg_0,Ugz4Bj2qRVR3KsNyUX14AaABAg,0,32,0.0,"Hey if you plug the wireless version of the camera into a solar powered power bank, would that allow it to work without having to bring it in for charging?",English,camera,camera,1.0
+Ugz4Bj2qRVR3KsNyUX14AaABAg_0,Ugz4Bj2qRVR3KsNyUX14AaABAg,0,32,0.0,"Hey if you plug the wireless version of the camera into a solar powered power bank, would that allow it to work without having to bring it in for charging?",English,power,power,1.0
+Ugz4Bj2qRVR3KsNyUX14AaABAg_0,Ugz4Bj2qRVR3KsNyUX14AaABAg,0,32,0.0,"Hey if you plug the wireless version of the camera into a solar powered power bank, would that allow it to work without having to bring it in for charging?",English,bank,bank,1.0
+UgxEnkn8KrOJHlyXtgV4AaABAg_0,UgxEnkn8KrOJHlyXtgV4AaABAg,0,20,0.0,"Its not recording 1080p, it's doing 720p and there is no way to change it to 1080p!",English,way,way,1.0
+UgxEnkn8KrOJHlyXtgV4AaABAg_1,UgxEnkn8KrOJHlyXtgV4AaABAg,1,3,0.0,Any suggestions?,English,suggestions,suggestions,1.0
+UgyMvHgmDaAgZ6J_5gx4AaABAg_0,UgyMvHgmDaAgZ6J_5gx4AaABAg,0,9,0.0,1...it doesn't last 3 months.,English,months,months,1.0
+UgyMvHgmDaAgZ6J_5gx4AaABAg_1,UgyMvHgmDaAgZ6J_5gx4AaABAg,1,7,0.5,More like 10% a day.,English,day,day,1.0
+UgyMvHgmDaAgZ6J_5gx4AaABAg_2,UgyMvHgmDaAgZ6J_5gx4AaABAg,2,13,0.170454545455,2)  wake up time to view live view takes for ever!,English,wake,wake,1.0
+UgyMvHgmDaAgZ6J_5gx4AaABAg_2,UgyMvHgmDaAgZ6J_5gx4AaABAg,2,13,0.170454545455,2)  wake up time to view live view takes for ever!,English,time,time,1.0
+UgyMvHgmDaAgZ6J_5gx4AaABAg_2,UgyMvHgmDaAgZ6J_5gx4AaABAg,2,13,0.170454545455,2)  wake up time to view live view takes for ever!,English,view,view,1.0
+UgyMvHgmDaAgZ6J_5gx4AaABAg_3,UgyMvHgmDaAgZ6J_5gx4AaABAg,3,8,0.0,3) can't change the settings...,English,settings,settings,1.0
+UgyMvHgmDaAgZ6J_5gx4AaABAg_4,UgyMvHgmDaAgZ6J_5gx4AaABAg,4,11,0.0,I would wait a while til they fix all that.,English,til,til,1.0
+UgyMvHgmDaAgZ6J_5gx4AaABAg_5,UgyMvHgmDaAgZ6J_5gx4AaABAg,5,8,0.0,Returned my wireless to a wired one.,English,wireless,wireless,1.0
+UgyMvHgmDaAgZ6J_5gx4AaABAg_5,UgyMvHgmDaAgZ6J_5gx4AaABAg,5,8,0.0,Returned my wireless to a wired one.,English,one,one,1.0
+UgzIqmy3zJRpb5JiS1F4AaABAg_0,UgzIqmy3zJRpb5JiS1F4AaABAg,0,7,-1.0,That background music is very annoying.,English,background,background,1.0
+UgzIqmy3zJRpb5JiS1F4AaABAg_0,UgzIqmy3zJRpb5JiS1F4AaABAg,0,7,-1.0,That background music is very annoying.,English,music,music,1.0
+Ugzntz3MwSoxHTNSFal4AaABAg_0,Ugzntz3MwSoxHTNSFal4AaABAg,0,7,0.0,"At last, it's released.",English,,,
+Ugzntz3MwSoxHTNSFal4AaABAg_1,Ugzntz3MwSoxHTNSFal4AaABAg,1,6,0.2,Thanks for the swift review.,English,thanks,thanks,1.0
+Ugzntz3MwSoxHTNSFal4AaABAg_1,Ugzntz3MwSoxHTNSFal4AaABAg,1,6,0.2,Thanks for the swift review.,English,swift,swift,1.0
+Ugzntz3MwSoxHTNSFal4AaABAg_1,Ugzntz3MwSoxHTNSFal4AaABAg,1,6,0.2,Thanks for the swift review.,English,review,review,1.0
+Ugzntz3MwSoxHTNSFal4AaABAg_2,Ugzntz3MwSoxHTNSFal4AaABAg,2,11,0.5,Can more than one motion detection zone be set up?,English,motion,motion,1.0
+Ugzntz3MwSoxHTNSFal4AaABAg_2,Ugzntz3MwSoxHTNSFal4AaABAg,2,11,0.5,Can more than one motion detection zone be set up?,English,detection,detection,1.0
+Ugzntz3MwSoxHTNSFal4AaABAg_2,Ugzntz3MwSoxHTNSFal4AaABAg,2,11,0.5,Can more than one motion detection zone be set up?,English,zone,zone,1.0
+Ugzntz3MwSoxHTNSFal4AaABAg_3,Ugzntz3MwSoxHTNSFal4AaABAg,3,9,0.0,"Also, this should just work with HomeKit?",English,homekit,homekit,1.0
+Ugz3B8FltiXgY1aAkCJ4AaABAg_0,Ugz3B8FltiXgY1aAkCJ4AaABAg,0,10,-0.155555555556,So if your internet goes down you are screwed?,English,internet,internet,1.0
+Ugz3B8FltiXgY1aAkCJ4AaABAg_1,Ugz3B8FltiXgY1aAkCJ4AaABAg,1,9,0.0,"You can't use it ""offline"" ?",English,,,
+UgxoKGONSUSFYfVXidV4AaABAg_0,UgxoKGONSUSFYfVXidV4AaABAg,0,10,0.0,I've been waiting for these to come out.,English,,,
+UgxoKGONSUSFYfVXidV4AaABAg_1,UgxoKGONSUSFYfVXidV4AaABAg,1,14,-0.5,"Now I see there's no SD card slot, Ill look elsewhere.",English,card,card,1.0
+UgxoKGONSUSFYfVXidV4AaABAg_1,UgxoKGONSUSFYfVXidV4AaABAg,1,14,-0.5,"Now I see there's no SD card slot, Ill look elsewhere.",English,slot,slot,1.0
+UgxoKGONSUSFYfVXidV4AaABAg_1,UgxoKGONSUSFYfVXidV4AaABAg,1,14,-0.5,"Now I see there's no SD card slot, Ill look elsewhere.",English,ill,ill,1.0
+UgxoKGONSUSFYfVXidV4AaABAg_1,UgxoKGONSUSFYfVXidV4AaABAg,1,14,-0.5,"Now I see there's no SD card slot, Ill look elsewhere.",English,look,look,1.0
+UgxoKGONSUSFYfVXidV4AaABAg_2,UgxoKGONSUSFYfVXidV4AaABAg,2,12,-0.433333333333,"Poor Logitech, they suffer from a bad case of mediocrity.",English,poor,poor,1.0
+UgxoKGONSUSFYfVXidV4AaABAg_2,UgxoKGONSUSFYfVXidV4AaABAg,2,12,-0.433333333333,"Poor Logitech, they suffer from a bad case of mediocrity.",English,logitech,logitech,1.0
+UgxoKGONSUSFYfVXidV4AaABAg_2,UgxoKGONSUSFYfVXidV4AaABAg,2,12,-0.433333333333,"Poor Logitech, they suffer from a bad case of mediocrity.",English,case,case,1.0
+UgxoKGONSUSFYfVXidV4AaABAg_2,UgxoKGONSUSFYfVXidV4AaABAg,2,12,-0.433333333333,"Poor Logitech, they suffer from a bad case of mediocrity.",English,mediocrity,mediocrity,1.0
+Ughd03-wBLDYmXgCoAEC_0,Ughd03-wBLDYmXgCoAEC,0,8,1.0,"2 videos in 1 day, impressive!",English,videos,videos,1.0
+Ughd03-wBLDYmXgCoAEC_0,Ughd03-wBLDYmXgCoAEC,0,8,1.0,"2 videos in 1 day, impressive!",English,day,day,1.0
+Ughd03-wBLDYmXgCoAEC_1,Ughd03-wBLDYmXgCoAEC,1,16,0.0,So does this not have the option to use physical storage like a Micro SD?,English,option,option,1.0
+Ughd03-wBLDYmXgCoAEC_1,Ughd03-wBLDYmXgCoAEC,1,16,0.0,So does this not have the option to use physical storage like a Micro SD?,English,storage,storage,1.0
+Ughd03-wBLDYmXgCoAEC_1,Ughd03-wBLDYmXgCoAEC,1,16,0.0,So does this not have the option to use physical storage like a Micro SD?,English,micro,micro,1.0

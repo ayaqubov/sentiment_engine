@@ -1,0 +1,144 @@
+textsentence_id,text_id,sentence_id,word_count,sentiment,sentence,language,word,translated_word,freq
+Charging01_0,Charging01,0,8,0.0,Does not stay connected to the speakers.,English,speakers,speakers,1.0
+Charging01_1,Charging01,1,9,0.0,I'm constantly having to adjust this thing.,English,thing,thing,1.0
+Charging02_0,Charging02,0,4,0.0,works as intended.,English,works,works,1.0
+Charging02_1,Charging02,1,6,0.416666666667,Charges my megablast just fine.,English,charges,charges,1.0
+Charging02_1,Charging02,1,6,0.416666666667,Charges my megablast just fine.,English,megablast,megablast,1.0
+Charging02_2,Charging02,2,13,0.0,Im buying my second one for the blast i just pucked up.,English,blast,blast,1.0
+Charging03_0,Charging03,0,13,0.2,The charging dock really helps the usability and ease of the Megablast.,English,dock,dock,1.0
+Charging03_0,Charging03,0,13,0.2,The charging dock really helps the usability and ease of the Megablast.,English,usability,usability,1.0
+Charging03_0,Charging03,0,13,0.2,The charging dock really helps the usability and ease of the Megablast.,English,ease,ease,1.0
+Charging03_0,Charging03,0,13,0.2,The charging dock really helps the usability and ease of the Megablast.,English,megablast,megablast,1.0
+Charging03_1,Charging03,1,19,0.2,"My speaker is now ready and charged whenever I need it, and battery is never an issue.",English,speaker,speaker,1.0
+Charging03_1,Charging03,1,19,0.2,"My speaker is now ready and charged whenever I need it, and battery is never an issue.",English,battery,battery,1.0
+Charging03_1,Charging03,1,19,0.2,"My speaker is now ready and charged whenever I need it, and battery is never an issue.",English,issue,issue,1.0
+Charging04_0,Charging04,0,2,0.0,1.,English,,,
+Charging04_1,Charging04,1,8,-0.8,Hate the UE Megablast support through Logitech.,English,hate,hate,1.0
+Charging04_1,Charging04,1,8,-0.8,Hate the UE Megablast support through Logitech.,English,megablast,megablast,1.0
+Charging04_1,Charging04,1,8,-0.8,Hate the UE Megablast support through Logitech.,English,support,support,1.0
+Charging04_1,Charging04,1,8,-0.8,Hate the UE Megablast support through Logitech.,English,logitech,logitech,1.0
+Charging04_2,Charging04,2,16,0.0,Prior to last Thursday they had phone technical support and now only on-line and email.,English,thursday,thursday,1.0
+Charging04_2,Charging04,2,16,0.0,Prior to last Thursday they had phone technical support and now only on-line and email.,English,phone,phone,1.0
+Charging04_2,Charging04,2,16,0.0,Prior to last Thursday they had phone technical support and now only on-line and email.,English,support,support,1.0
+Charging04_2,Charging04,2,16,0.0,Prior to last Thursday they had phone technical support and now only on-line and email.,English,line,line,1.0
+Charging04_2,Charging04,2,16,0.0,Prior to last Thursday they had phone technical support and now only on-line and email.,English,email,email,1.0
+Charging04_3,Charging04,3,10,0.0,I emailed last Thursday and as of Sunday afternoon.,English,thursday,thursday,1.0
+Charging04_3,Charging04,3,10,0.0,I emailed last Thursday and as of Sunday afternoon.,English,sunday,sunday,1.0
+Charging04_3,Charging04,3,10,0.0,I emailed last Thursday and as of Sunday afternoon.,English,afternoon,afternoon,1.0
+Charging04_4,Charging04,4,17,0.0,"no response, technical support for this quality and $$$ price range is undetectable.",English,response,response,1.0
+Charging04_4,Charging04,4,17,0.0,"no response, technical support for this quality and $$$ price range is undetectable.",English,support,support,1.0
+Charging04_4,Charging04,4,17,0.0,"no response, technical support for this quality and $$$ price range is undetectable.",English,quality,quality,1.0
+Charging04_4,Charging04,4,17,0.0,"no response, technical support for this quality and $$$ price range is undetectable.",English,price,price,1.0
+Charging04_4,Charging04,4,17,0.0,"no response, technical support for this quality and $$$ price range is undetectable.",English,range,range,1.0
+Charging04_5,Charging04,5,2,0.0,2.,English,,,
+Charging04_6,Charging04,6,22,0.116666666667,The code provided for 90 days free Music on Amazon was invalid or previously used and again no one to contact.,English,code,code,1.0
+Charging04_6,Charging04,6,22,0.116666666667,The code provided for 90 days free Music on Amazon was invalid or previously used and again no one to contact.,English,days,days,1.0
+Charging04_6,Charging04,6,22,0.116666666667,The code provided for 90 days free Music on Amazon was invalid or previously used and again no one to contact.,English,music,music,1.0
+Charging04_6,Charging04,6,22,0.116666666667,The code provided for 90 days free Music on Amazon was invalid or previously used and again no one to contact.,English,amazon,amazon,1.0
+Charging04_6,Charging04,6,22,0.116666666667,The code provided for 90 days free Music on Amazon was invalid or previously used and again no one to contact.,English,one,one,1.0
+Charging04_7,Charging04,7,14,0.0,Reply to code which did come prompt on setting up Alexa on Amazon.,English,reply,reply,1.0
+Charging04_7,Charging04,7,14,0.0,Reply to code which did come prompt on setting up Alexa on Amazon.,English,prompt,prompt,1.0
+Charging04_7,Charging04,7,14,0.0,Reply to code which did come prompt on setting up Alexa on Amazon.,English,alexa,alexa,1.0
+Charging04_7,Charging04,7,14,0.0,Reply to code which did come prompt on setting up Alexa on Amazon.,English,amazon,amazon,1.0
+Charging04_8,Charging04,8,15,0.0,Contected Amaxon Saturday and waiting response as Ultimate Ears has not responded to repiy.,English,amaxon,amaxon,1.0
+Charging04_8,Charging04,8,15,0.0,Contected Amaxon Saturday and waiting response as Ultimate Ears has not responded to repiy.,English,saturday,saturday,1.0
+Charging04_8,Charging04,8,15,0.0,Contected Amaxon Saturday and waiting response as Ultimate Ears has not responded to repiy.,English,response,response,1.0
+Charging04_8,Charging04,8,15,0.0,Contected Amaxon Saturday and waiting response as Ultimate Ears has not responded to repiy.,English,ultimate,ultimate,1.0
+Charging04_8,Charging04,8,15,0.0,Contected Amaxon Saturday and waiting response as Ultimate Ears has not responded to repiy.,English,ears,ears,1.0
+Charging04_9,Charging04,9,2,0.0,3.,English,,,
+Charging04_10,Charging04,10,18,-0.125,If you assume this Megablast workes with other UE produnts with UE boom app it does not.,English,megablast,megablast,1.0
+Charging04_10,Charging04,10,18,-0.125,If you assume this Megablast workes with other UE produnts with UE boom app it does not.,English,workes,workes,1.0
+Charging04_10,Charging04,10,18,-0.125,If you assume this Megablast workes with other UE produnts with UE boom app it does not.,English,produnts,produnts,1.0
+Charging04_10,Charging04,10,18,-0.125,If you assume this Megablast workes with other UE produnts with UE boom app it does not.,English,boom,boom,1.0
+Charging04_11,Charging04,11,27,0.255555555556,I have 3 UE Boom 2 which link together and I wanted more bass but fine that Blast and Megablast products are found by that app.,English,boom,boom,1.0
+Charging04_11,Charging04,11,27,0.255555555556,I have 3 UE Boom 2 which link together and I wanted more bass but fine that Blast and Megablast products are found by that app.,English,bass,bass,1.0
+Charging04_11,Charging04,11,27,0.255555555556,I have 3 UE Boom 2 which link together and I wanted more bass but fine that Blast and Megablast products are found by that app.,English,blast,blast,1.0
+Charging04_11,Charging04,11,27,0.255555555556,I have 3 UE Boom 2 which link together and I wanted more bass but fine that Blast and Megablast products are found by that app.,English,megablast,megablast,1.0
+Charging04_11,Charging04,11,27,0.255555555556,I have 3 UE Boom 2 which link together and I wanted more bass but fine that Blast and Megablast products are found by that app.,English,products,products,1.0
+Charging04_11,Charging04,11,27,0.255555555556,I have 3 UE Boom 2 which link together and I wanted more bass but fine that Blast and Megablast products are found by that app.,English,app,app,1.0
+Charging04_12,Charging04,12,21,-0.404166666667,The product director was idiot for not maintaining continuity or allowing product designer to work in vacuum as non-UE product.,English,product,product,1.0
+Charging04_12,Charging04,12,21,-0.404166666667,The product director was idiot for not maintaining continuity or allowing product designer to work in vacuum as non-UE product.,English,director,director,1.0
+Charging04_12,Charging04,12,21,-0.404166666667,The product director was idiot for not maintaining continuity or allowing product designer to work in vacuum as non-UE product.,English,idiot,idiot,1.0
+Charging04_12,Charging04,12,21,-0.404166666667,The product director was idiot for not maintaining continuity or allowing product designer to work in vacuum as non-UE product.,English,continuity,continuity,1.0
+Charging04_12,Charging04,12,21,-0.404166666667,The product director was idiot for not maintaining continuity or allowing product designer to work in vacuum as non-UE product.,English,product,product,1.0
+Charging04_12,Charging04,12,21,-0.404166666667,The product director was idiot for not maintaining continuity or allowing product designer to work in vacuum as non-UE product.,English,designer,designer,1.0
+Charging04_12,Charging04,12,21,-0.404166666667,The product director was idiot for not maintaining continuity or allowing product designer to work in vacuum as non-UE product.,English,vacuum,vacuum,1.0
+Charging04_12,Charging04,12,21,-0.404166666667,The product director was idiot for not maintaining continuity or allowing product designer to work in vacuum as non-UE product.,English,product,product,1.0
+Charging04_13,Charging04,13,35,0.0,"If I was running 3 ea Boom 2 with Boom app and play bluetooth to Megablast, the 3 ea Boom 2 turn off, do to no support or continuity of product conceot.",English,boom,boom,1.0
+Charging04_13,Charging04,13,35,0.0,"If I was running 3 ea Boom 2 with Boom app and play bluetooth to Megablast, the 3 ea Boom 2 turn off, do to no support or continuity of product conceot.",English,boom,boom,1.0
+Charging04_13,Charging04,13,35,0.0,"If I was running 3 ea Boom 2 with Boom app and play bluetooth to Megablast, the 3 ea Boom 2 turn off, do to no support or continuity of product conceot.",English,app,app,1.0
+Charging04_13,Charging04,13,35,0.0,"If I was running 3 ea Boom 2 with Boom app and play bluetooth to Megablast, the 3 ea Boom 2 turn off, do to no support or continuity of product conceot.",English,megablast,megablast,1.0
+Charging04_13,Charging04,13,35,0.0,"If I was running 3 ea Boom 2 with Boom app and play bluetooth to Megablast, the 3 ea Boom 2 turn off, do to no support or continuity of product conceot.",English,boom,boom,1.0
+Charging04_13,Charging04,13,35,0.0,"If I was running 3 ea Boom 2 with Boom app and play bluetooth to Megablast, the 3 ea Boom 2 turn off, do to no support or continuity of product conceot.",English,turn,turn,1.0
+Charging04_13,Charging04,13,35,0.0,"If I was running 3 ea Boom 2 with Boom app and play bluetooth to Megablast, the 3 ea Boom 2 turn off, do to no support or continuity of product conceot.",English,support,support,1.0
+Charging04_13,Charging04,13,35,0.0,"If I was running 3 ea Boom 2 with Boom app and play bluetooth to Megablast, the 3 ea Boom 2 turn off, do to no support or continuity of product conceot.",English,continuity,continuity,1.0
+Charging04_13,Charging04,13,35,0.0,"If I was running 3 ea Boom 2 with Boom app and play bluetooth to Megablast, the 3 ea Boom 2 turn off, do to no support or continuity of product conceot.",English,product,product,1.0
+Charging04_13,Charging04,13,35,0.0,"If I was running 3 ea Boom 2 with Boom app and play bluetooth to Megablast, the 3 ea Boom 2 turn off, do to no support or continuity of product conceot.",English,conceot,conceot,1.0
+Charging04_14,Charging04,14,2,0.0,4.,English,,,
+Charging04_15,Charging04,15,22,-0.5,You may experience and issue where after using to attempting to turn on there no response and fails to turn on.,English,response,response,1.0
+Charging04_16,Charging04,16,23,0.0481481481481,"I found that by push volume up, volume down, power, and bluetooth pairing was able to revive from dead.",English,push,push,1.0
+Charging04_16,Charging04,16,23,0.0481481481481,"I found that by push volume up, volume down, power, and bluetooth pairing was able to revive from dead.",English,volume,volume,1.0
+Charging04_16,Charging04,16,23,0.0481481481481,"I found that by push volume up, volume down, power, and bluetooth pairing was able to revive from dead.",English,volume,volume,1.0
+Charging04_16,Charging04,16,23,0.0481481481481,"I found that by push volume up, volume down, power, and bluetooth pairing was able to revive from dead.",English,power,power,1.0
+Charging04_16,Charging04,16,23,0.0481481481481,"I found that by push volume up, volume down, power, and bluetooth pairing was able to revive from dead.",English,bluetooth,bluetooth,1.0
+Charging04_16,Charging04,16,23,0.0481481481481,"I found that by push volume up, volume down, power, and bluetooth pairing was able to revive from dead.",English,pairing,pairing,1.0
+Charging04_17,Charging04,17,18,0.00555555555556,Another option is hold volume down and power which like older UE produnts resets to downloaded configuration.,English,option,option,1.0
+Charging04_17,Charging04,17,18,0.00555555555556,Another option is hold volume down and power which like older UE produnts resets to downloaded configuration.,English,volume,volume,1.0
+Charging04_17,Charging04,17,18,0.00555555555556,Another option is hold volume down and power which like older UE produnts resets to downloaded configuration.,English,power,power,1.0
+Charging04_17,Charging04,17,18,0.00555555555556,Another option is hold volume down and power which like older UE produnts resets to downloaded configuration.,English,produnts,produnts,1.0
+Charging04_17,Charging04,17,18,0.00555555555556,Another option is hold volume down and power which like older UE produnts resets to downloaded configuration.,English,configuration,configuration,1.0
+Charging04_18,Charging04,18,2,0.0,5.,English,,,
+Charging04_19,Charging04,19,17,0.0,Choose blue Ultimate Ears app on play store which only addresses the Blast and Megablast products.,English,choose,choose,1.0
+Charging04_19,Charging04,19,17,0.0,Choose blue Ultimate Ears app on play store which only addresses the Blast and Megablast products.,English,ultimate,ultimate,1.0
+Charging04_19,Charging04,19,17,0.0,Choose blue Ultimate Ears app on play store which only addresses the Blast and Megablast products.,English,ears,ears,1.0
+Charging04_19,Charging04,19,17,0.0,Choose blue Ultimate Ears app on play store which only addresses the Blast and Megablast products.,English,app,app,1.0
+Charging04_19,Charging04,19,17,0.0,Choose blue Ultimate Ears app on play store which only addresses the Blast and Megablast products.,English,play,play,1.0
+Charging04_19,Charging04,19,17,0.0,Choose blue Ultimate Ears app on play store which only addresses the Blast and Megablast products.,English,store,store,1.0
+Charging04_19,Charging04,19,17,0.0,Choose blue Ultimate Ears app on play store which only addresses the Blast and Megablast products.,English,blast,blast,1.0
+Charging04_19,Charging04,19,17,0.0,Choose blue Ultimate Ears app on play store which only addresses the Blast and Megablast products.,English,megablast,megablast,1.0
+Charging04_19,Charging04,19,17,0.0,Choose blue Ultimate Ears app on play store which only addresses the Blast and Megablast products.,English,products,products,1.0
+Charging04_20,Charging04,20,9,0.0,Once completed you update the Megablast internal software.,English,megablast,megablast,1.0
+Charging04_20,Charging04,20,9,0.0,Once completed you update the Megablast internal software.,English,software,software,1.0
+Charging04_21,Charging04,21,2,0.0,6.,English,,,
+Charging04_22,Charging04,22,17,-0.229166666667,Disappointment that cannot get that extra bass and run all products with previous product versions.,English,disappointment,disappointment,1.0
+Charging04_22,Charging04,22,17,-0.229166666667,Disappointment that cannot get that extra bass and run all products with previous product versions.,English,bass,bass,1.0
+Charging04_22,Charging04,22,17,-0.229166666667,Disappointment that cannot get that extra bass and run all products with previous product versions.,English,products,products,1.0
+Charging04_22,Charging04,22,17,-0.229166666667,Disappointment that cannot get that extra bass and run all products with previous product versions.,English,product,product,1.0
+Charging04_22,Charging04,22,17,-0.229166666667,Disappointment that cannot get that extra bass and run all products with previous product versions.,English,versions,versions,1.0
+Charging04_23,Charging04,23,2,0.0,7.,English,,,
+Charging04_24,Charging04,24,36,0.139285714286,Buyer beware...... however the Alexa WiFi operations cool but may be limited to home usage or take another WiFi source or hotspot and to create another connection and access to another WiFi connection.,English,buyer,buyer,1.0
+Charging04_24,Charging04,24,36,0.139285714286,Buyer beware...... however the Alexa WiFi operations cool but may be limited to home usage or take another WiFi source or hotspot and to create another connection and access to another WiFi connection.,English,beware,beware,1.0
+Charging04_24,Charging04,24,36,0.139285714286,Buyer beware...... however the Alexa WiFi operations cool but may be limited to home usage or take another WiFi source or hotspot and to create another connection and access to another WiFi connection.,English,alexa,alexa,1.0
+Charging04_24,Charging04,24,36,0.139285714286,Buyer beware...... however the Alexa WiFi operations cool but may be limited to home usage or take another WiFi source or hotspot and to create another connection and access to another WiFi connection.,English,wifi,wifi,1.0
+Charging04_24,Charging04,24,36,0.139285714286,Buyer beware...... however the Alexa WiFi operations cool but may be limited to home usage or take another WiFi source or hotspot and to create another connection and access to another WiFi connection.,English,operations,operations,1.0
+Charging04_24,Charging04,24,36,0.139285714286,Buyer beware...... however the Alexa WiFi operations cool but may be limited to home usage or take another WiFi source or hotspot and to create another connection and access to another WiFi connection.,English,home,home,1.0
+Charging04_24,Charging04,24,36,0.139285714286,Buyer beware...... however the Alexa WiFi operations cool but may be limited to home usage or take another WiFi source or hotspot and to create another connection and access to another WiFi connection.,English,usage,usage,1.0
+Charging04_24,Charging04,24,36,0.139285714286,Buyer beware...... however the Alexa WiFi operations cool but may be limited to home usage or take another WiFi source or hotspot and to create another connection and access to another WiFi connection.,English,wifi,wifi,1.0
+Charging04_24,Charging04,24,36,0.139285714286,Buyer beware...... however the Alexa WiFi operations cool but may be limited to home usage or take another WiFi source or hotspot and to create another connection and access to another WiFi connection.,English,source,source,1.0
+Charging04_24,Charging04,24,36,0.139285714286,Buyer beware...... however the Alexa WiFi operations cool but may be limited to home usage or take another WiFi source or hotspot and to create another connection and access to another WiFi connection.,English,hotspot,hotspot,1.0
+Charging04_24,Charging04,24,36,0.139285714286,Buyer beware...... however the Alexa WiFi operations cool but may be limited to home usage or take another WiFi source or hotspot and to create another connection and access to another WiFi connection.,English,connection,connection,1.0
+Charging04_24,Charging04,24,36,0.139285714286,Buyer beware...... however the Alexa WiFi operations cool but may be limited to home usage or take another WiFi source or hotspot and to create another connection and access to another WiFi connection.,English,access,access,1.0
+Charging04_24,Charging04,24,36,0.139285714286,Buyer beware...... however the Alexa WiFi operations cool but may be limited to home usage or take another WiFi source or hotspot and to create another connection and access to another WiFi connection.,English,wifi,wifi,1.0
+Charging04_24,Charging04,24,36,0.139285714286,Buyer beware...... however the Alexa WiFi operations cool but may be limited to home usage or take another WiFi source or hotspot and to create another connection and access to another WiFi connection.,English,connection,connection,1.0
+Charging04_25,Charging04,25,16,0.5,"The unit does work Bluetooth but stand alone allowed, unless you more blast products.",English,unit,unit,1.0
+Charging04_25,Charging04,25,16,0.5,"The unit does work Bluetooth but stand alone allowed, unless you more blast products.",English,bluetooth,bluetooth,1.0
+Charging04_25,Charging04,25,16,0.5,"The unit does work Bluetooth but stand alone allowed, unless you more blast products.",English,products,products,1.0
+Charging04_26,Charging04,26,2,0.0,8.,English,,,
+Charging04_27,Charging04,27,29,-0.0833333333333,"The dock is essential for home usage but come less power supply and cable, as you must use power supply and cable provide with purchase of Megablast.",English,dock,dock,1.0
+Charging04_27,Charging04,27,29,-0.0833333333333,"The dock is essential for home usage but come less power supply and cable, as you must use power supply and cable provide with purchase of Megablast.",English,home,home,1.0
+Charging04_27,Charging04,27,29,-0.0833333333333,"The dock is essential for home usage but come less power supply and cable, as you must use power supply and cable provide with purchase of Megablast.",English,usage,usage,1.0
+Charging04_27,Charging04,27,29,-0.0833333333333,"The dock is essential for home usage but come less power supply and cable, as you must use power supply and cable provide with purchase of Megablast.",English,power,power,1.0
+Charging04_27,Charging04,27,29,-0.0833333333333,"The dock is essential for home usage but come less power supply and cable, as you must use power supply and cable provide with purchase of Megablast.",English,supply,supply,1.0
+Charging04_27,Charging04,27,29,-0.0833333333333,"The dock is essential for home usage but come less power supply and cable, as you must use power supply and cable provide with purchase of Megablast.",English,cable,cable,1.0
+Charging04_27,Charging04,27,29,-0.0833333333333,"The dock is essential for home usage but come less power supply and cable, as you must use power supply and cable provide with purchase of Megablast.",English,power,power,1.0
+Charging04_27,Charging04,27,29,-0.0833333333333,"The dock is essential for home usage but come less power supply and cable, as you must use power supply and cable provide with purchase of Megablast.",English,supply,supply,1.0
+Charging04_27,Charging04,27,29,-0.0833333333333,"The dock is essential for home usage but come less power supply and cable, as you must use power supply and cable provide with purchase of Megablast.",English,cable,cable,1.0
+Charging04_27,Charging04,27,29,-0.0833333333333,"The dock is essential for home usage but come less power supply and cable, as you must use power supply and cable provide with purchase of Megablast.",English,provide,provide,1.0
+Charging04_27,Charging04,27,29,-0.0833333333333,"The dock is essential for home usage but come less power supply and cable, as you must use power supply and cable provide with purchase of Megablast.",English,purchase,purchase,1.0
+Charging04_27,Charging04,27,29,-0.0833333333333,"The dock is essential for home usage but come less power supply and cable, as you must use power supply and cable provide with purchase of Megablast.",English,megablast,megablast,1.0
+Charging04_28,Charging04,28,17,0.5,Cheap alternative feature for $$ 40 dock not to have own power supply and cable.,English,cheap,cheap,1.0
+Charging04_28,Charging04,28,17,0.5,Cheap alternative feature for $$ 40 dock not to have own power supply and cable.,English,feature,feature,1.0
+Charging04_28,Charging04,28,17,0.5,Cheap alternative feature for $$ 40 dock not to have own power supply and cable.,English,dock,dock,1.0
+Charging04_28,Charging04,28,17,0.5,Cheap alternative feature for $$ 40 dock not to have own power supply and cable.,English,power,power,1.0
+Charging04_28,Charging04,28,17,0.5,Cheap alternative feature for $$ 40 dock not to have own power supply and cable.,English,supply,supply,1.0
+Charging04_28,Charging04,28,17,0.5,Cheap alternative feature for $$ 40 dock not to have own power supply and cable.,English,cable,cable,1.0
